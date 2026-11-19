@@ -21,3 +21,11 @@ with a numbered world map, six stat tiles, and every story date-checked.
 
 Sources: Reuters · AP · Al Jazeera · NASA · IMD · IAEA — as of 14:30 WIB,
 19 Nov 2026.
+
+## Provenance
+
+This is a rebuild (v4r) of the v4 entry: the v4 build session could not be
+bundled, because it opened with a handed-off prompt whose parent-chat chain
+exceeded what the kit can carry. The entry was therefore rebuilt from the
+brief in a fresh session, and every story was re-verified live from its
+source for this rebuild.
